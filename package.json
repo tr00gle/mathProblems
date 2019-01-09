@@ -1,0 +1,19 @@
+{
+  "name": "mathproblems",
+  "version": "1.0.0",
+  "description": "a repo to solve math problems",
+  "main": "birthdayProblem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tr00gle/mathProblems.git"
+  },
+  "author": "trontz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tr00gle/mathProblems/issues"
+  },
+  "homepage": "https://github.com/tr00gle/mathProblems#readme"
+}
